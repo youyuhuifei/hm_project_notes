@@ -1,0 +1,16 @@
+{
+  "login_001":{
+  "url": "http://www.baidu.com",
+  "mobile": "13500001111",
+  "code": "123",
+  "expect_result": "ok",
+  "status_code": 201
+},
+"login_002":{
+  "url": "http://www.baidu.com",
+  "mobile": "13500001111",
+  "code": "123",
+  "expect_result": "ok",
+  "status_code": 204
+}
+}

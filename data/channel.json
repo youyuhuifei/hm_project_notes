@@ -1,0 +1,6 @@
+{
+  "url": "http://ttapi.",
+  "headers": {},
+  "expect_result": "OK",
+  "status_code": 200
+}
